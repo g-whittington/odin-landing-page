@@ -76,15 +76,18 @@ body {
 }
 
 .middle-title {
+    color: #1f2937;
     font-size: 36px;
     font-weight: 900;
     text-align: center;
+    margin-top: 40px;
 }
 
 .middle-top {
     display: flex;
     justify-content: center;
     gap: 8px;
+    margin-bottom: 40px;
 }
 
 .info {
