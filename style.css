@@ -107,3 +107,29 @@ body {
     color: #656d79;
     padding: 0 25px;
 }
+
+.middle-bottom {
+    padding: 40px 0;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.middle-bottom p {
+    margin-top: 40px;
+    padding: 0 370px;
+    color: #3b4450;
+    font-size: 36px;
+}
+
+.middle-bottom span {
+    margin-bottom: 40px;
+    margin-top: -36px;
+    padding-left: 538px;
+    color: #222c3a;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
