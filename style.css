@@ -84,7 +84,7 @@ body {
 .middle-top {
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 8px;
 }
 
 .info {
